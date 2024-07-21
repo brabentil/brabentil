@@ -1,7 +1,10 @@
-
 # Hi there, I'm Nana Bentil Saah! 👋
 
 I'm a passionate software developer from Accra, Ghana, with a focus on AI, machine learning, and innovative tech solutions. Here's a bit more about me and what I've been working on.
+
+## 📈 GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brabentil&theme=dark)](https://git.io/streak-stats)
 
 ## 🚀 About Me
 
@@ -45,9 +48,8 @@ I'm a passionate software developer from Accra, Ghana, with a focus on AI, machi
 - Football
 - Music
 
+
 ## 📫 Get in Touch
 
 - **Email:** [nbensaah@gmail.com](mailto:nbensaah@gmail.com)
 - **LinkedIn:** [Nana Bentil Saah](https://www.linkedin.com/in/nana-bentil-saah)
-
-
