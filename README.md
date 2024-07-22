@@ -1,3 +1,7 @@
+## 🏆 GitHub Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=brabentil&theme=algolia)
+
+
 # Hi there, I'm Nana Bentil Saah! 👋
 
 
@@ -37,26 +41,38 @@
 
 ## 🛠 Languages and Tools
 
-### Languages:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-### Frameworks and Libraries:
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <h3>Languages</h3>
+    <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=cplusplus" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-MATLAB-333333?style=for-the-badge&logo=matlab" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-Arduino-333333?style=for-the-badge&logo=arduino" style="margin: 5px;">
+  </div>
 
-### Tools:
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-333333?style=flat&logo=arduino)
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <h3>Frameworks and Libraries</h3>
+    <img src="https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=express" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas" style="margin: 5px;">
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <h3>Tools</h3>
+    <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-Arduino%20IDE-333333?style=for-the-badge&logo=arduino" style="margin: 5px;">
+  </div>
+
+</div>
+
+
 
 ## 🌱 Interests
 
