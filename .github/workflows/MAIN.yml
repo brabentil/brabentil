@@ -13,9 +13,9 @@ jobs:
 
     steps:
       # Checks out the repository under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3  # Updated to the latest version
 
-      # Generates the snake  
+      # Generates the snake
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -28,10 +28,11 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git checkout -b output
+          git fetch
+          git checkout -B output
           git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
           git commit -m "Generated snake gif and svg"
-          git push -f origin output
+          git push -u origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
