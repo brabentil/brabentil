@@ -1,10 +1,5 @@
 # Hi there, I'm Nana Bentil Saah! 👋
 
-I'm a passionate software developer from Accra, Ghana, with a focus on AI, machine learning, and innovative tech solutions. Here's a bit more about me and what I've been working on.
-
-## 📈 GitHub Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brabentil&theme=dark)](https://git.io/streak-stats)
 
 ## 🚀 About Me
 
@@ -40,6 +35,29 @@ I'm a passionate software developer from Accra, Ghana, with a focus on AI, machi
 - **Tools and Technologies:** Microsoft Suite (Word, Access, PowerPoint), Google Workspace, Data Structures and Algorithms
 - **Personal Skills:** Problem Solving, Communication, Time Management, Adaptability, Resourcefulness
 
+## 🛠 Languages and Tools
+
+### Languages:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
+
+### Frameworks and Libraries:
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+
+### Tools:
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-333333?style=flat&logo=arduino)
+
 ## 🌱 Interests
 
 - Machine Learning
@@ -48,8 +66,21 @@ I'm a passionate software developer from Accra, Ghana, with a focus on AI, machi
 - Football
 - Music
 
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brabentil&theme=dark)](https://git.io/streak-stats)
+
+![Nana Bentil Saah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brabentil&show_icons=true&theme=dark&count_private=true)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brabentil&layout=compact&theme=dark)
+
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=brabentil&color=lightgrey)
 
 ## 📫 Get in Touch
 
 - **Email:** [nbensaah@gmail.com](mailto:nbensaah@gmail.com)
 - **LinkedIn:** [Nana Bentil Saah](https://www.linkedin.com/in/nana-bentil-saah)
+
+
