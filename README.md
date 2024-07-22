@@ -99,4 +99,6 @@
 - **Email:** [nbensaah@gmail.com](mailto:nbensaah@gmail.com)
 - **LinkedIn:** [Nana Bentil Saah](https://www.linkedin.com/in/nana-bentil-saah)
 
+## 🐍 Snake Game
 
+![snake gif](https://github.com/brabentil/brabentil/blob/output/github-contribution-grid-snake.svg)
