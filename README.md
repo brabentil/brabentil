@@ -48,18 +48,18 @@ I'm a passionate developer with a knack for creating impactful projects. With ex
 - Music
 
 ---
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <h3>Stats</h3>
+    <img align="center" src="https://streak-stats.demolab.com/?user=brabentil&theme=transparent&timestamp=<?=time()?>" height="180em" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brabentil&layout=compact&theme=transparent" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brabentil&theme=transparent" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brabentil&theme=transparent&exclude=CSS,Jupyter%20Notebook" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brabentil&theme=transparent&exclude=CSS,Jupyter%20Notebook" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brabentil&theme=transparent&utcOffset=0" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brabentil&theme=transparent" height="180em" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=brabentil&theme=transparent" height="80em" />
+</div>
 
-### Stats:
-![Nana Bentil Saah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brabentil&show_icons=true&theme=dark&count_private=true)
-
-### Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brabentil)
-
-### Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brabentil&layout=compact&theme=dark)
-
-### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=brabentil&color=yellow)
 ---
 
 ## 📫 Get in Touch
