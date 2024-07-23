@@ -53,7 +53,7 @@ I'm a passionate developer with a knack for creating impactful projects. With ex
 ![Nana Bentil Saah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brabentil&show_icons=true&theme=dark&count_private=true)
 
 ### Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brabentil)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brabentil&theme=dark)
 
 ### Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brabentil&layout=compact&theme=dark)
