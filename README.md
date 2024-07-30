@@ -48,21 +48,22 @@ I'm a passionate developer with a knack for creating impactful projects. With ex
 - Music
 
 ---
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div align="center">
   <h3>Stats</h3>
-  <img align="center" src="https://streak-stats.demolab.com/?user=brabentil&theme=transparent" height="180em" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brabentil&layout=compact&theme=transparent" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brabentil&theme=transparent" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brabentil&theme=transparent" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brabentil&theme=transparent" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brabentil&theme=transparent&utcOffset=0" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brabentil&theme=transparent" height="180em" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=brabentil&theme=github" height="180em" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brabentil&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" height="180em" />
-  <img align="center" src="https://badges.pufler.dev/commits/monthly/brabentil" height="80em" />
-   <img align="center" src="https://komarev.com/ghpvc/?username=brabentil&theme=transparent" height="80em" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img src="https://streak-stats.demolab.com/?user=brabentil&theme=transparent&cache_seconds=1800" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brabentil&layout=compact&theme=transparent&cache_seconds=1800" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brabentil&theme=transparent&cache_seconds=1800" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brabentil&theme=transparent&cache_seconds=1800" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brabentil&theme=transparent&cache_seconds=1800" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brabentil&theme=transparent&utcOffset=0&cache_seconds=1800" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brabentil&theme=transparent&cache_seconds=1800" height="180em" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=brabentil&theme=github&cache_seconds=1800" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=brabentil&show_icons=true&hide=contribs,prs&cache_seconds=1800&theme=transparent" height="180em" />
+    <img src="https://badges.pufler.dev/commits/monthly/brabentil" height="80em" />
+    <img src="https://komarev.com/ghpvc/?username=brabentil&theme=transparent" height="80em" />
+  </div>
 </div>
-
 
 ---
 
