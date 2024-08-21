@@ -6,7 +6,7 @@
 **Location:** Accra, Ghana  
 **Languages:** English, French (Beginner), Native Twi  
 **LinkedIn:** [Nana Bentil Saah](https://www.linkedin.com/in/nana-bentil-saah)  
-**Fiverr:** [Check out my Fiverr gig!](https://www.fiverr.com/s/0beV8WL)
+
 
 ---
 
