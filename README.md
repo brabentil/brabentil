@@ -18,9 +18,6 @@ I'm a passionate developer with a knack for creating impactful projects. With ex
 
 ---
 
-Here’s an updated version of your **Languages and Tools** section, incorporating React, Tailwind CSS, Vite, Bootstrap, Vercel, and Render into refined categories:
-
----
 
 ## 🛠 Languages and Tools
 
