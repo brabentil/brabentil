@@ -6,7 +6,7 @@
 # Hi there, I'm Nana Bentil Saah! 👋
 
 **Location:** Accra, Ghana  
-**Languages:** English, French (Beginner), Native Twi  
+**Languages:** English, French, Native Twi  
 **LinkedIn:** [Nana Bentil Saah](https://www.linkedin.com/in/nana-bentil-saah)  
 
 
