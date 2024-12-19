@@ -54,7 +54,6 @@ I'm a passionate developer with a knack for creating impactful projects. With ex
 - Machine Learning
 - AI
 - Robotics
-- Football
 - Music
 
 ---
