@@ -1,8 +1,5 @@
 ## 🏆 GitHub Trophy
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=brabentil&theme=algolia)
-
-[![committers.top badge](https://user-badge.committers.top/ghana/brabentil.svg)](https://user-badge.committers.top/ghana/brabentil)
-
 # Hi there, I'm Nana Bentil Saah! 👋
 
 **Location:** Accra, Ghana  
