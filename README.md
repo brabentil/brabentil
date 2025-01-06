@@ -40,9 +40,10 @@ I'm a passionate developer with a knack for creating impactful projects. With ex
 ---
 
 ### **Deployment and Tools**
-| Git | VS Code | Arduino IDE | Vercel | Render |
-|-----|---------|-------------|--------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino IDE" alt="Arduino IDE" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/render/render-original.svg" title="Render" alt="Render" width="55" height="55"/> |
+| Git | VS Code | Arduino IDE | Vercel | Netlify |
+|-----|---------|-------------|--------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino IDE" alt="Arduino IDE" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="55" height="55"/> |
+
 
 ---
 
