@@ -19,7 +19,7 @@ I'm a passionate developer with a knack for creating impactful projects. With ex
 
 Check out my Fiverr gig for professional services:
 
-[![My Fiverr Gig](https://www.fiverr.com/s/kLpPvZo)](https://www.fiverr.com/s/kLpPvZo)
+[ My Fiverr Gig ](https://www.fiverr.com/s/kLpPvZo)
 
 ---
 
