@@ -15,6 +15,14 @@ I'm a passionate developer with a knack for creating impactful projects. With ex
 
 ---
 
+## 🎨 Fiverr Services
+
+Check out my Fiverr gig for professional services:
+
+[![My Fiverr Gig](https://www.fiverr.com/s/kLpPvZo)](https://www.fiverr.com/s/kLpPvZo)
+
+---
+
 
 ## 🛠 Languages and Tools
 
