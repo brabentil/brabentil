@@ -5,6 +5,7 @@
     <a href="https://www.linkedin.com/in/nana-bentil-saah"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:nbensaah@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.fiverr.com/s/kLpPvZo"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white" alt="Fiverr"/></a>
+    <a href="https://brabentil.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-5340ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=brabentil&style=for-the-badge&color=blueviolet" alt="profile views"/>
@@ -27,6 +28,25 @@ I'm a passionate developer with a knack for creating impactful projects. With ex
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Frontend+Development;Backend+Development;Problem+Solver;Creative+Thinker;Continuous+Learner" alt="Typing SVG" />
+</div>
+
+---
+
+<h2 align="center">🔍 Portfolio</h2>
+
+<div align="center">
+  <a href="https://brabentil.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-5340ff?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=20" alt="Portfolio" height="48"/>
+  </a>
+  
+  <p align="center">Check out my projects and professional work at <a href="https://brabentil.vercel.app" target="_blank">brabentil.vercel.app</a></p>
+
+  <div>
+    <img src="https://img.shields.io/badge/Responsive%20Design-Success-brightgreen?style=flat-square&logoWidth=30" alt="Responsive Design"/>
+    <img src="https://img.shields.io/badge/Modern%20UI/UX-Featured-blue?style=flat-square&logoWidth=30" alt="Modern UI/UX"/>
+    <img src="https://img.shields.io/badge/Project%20Showcase-Available-orange?style=flat-square&logoWidth=30" alt="Project Showcase"/>
+    <img src="https://img.shields.io/badge/Contact%20Info-Included-blueviolet?style=flat-square&logoWidth=30" alt="Contact Info"/>
+  </div>
 </div>
 
 ---
@@ -166,6 +186,9 @@ I'm a passionate developer with a knack for creating impactful projects. With ex
   </a>
   <a href="mailto:nbensaah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://brabentil.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   
   <br><br>
