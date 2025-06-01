@@ -17,7 +17,7 @@
 
 <div align="center">
   <b>Location:</b> Accra, Ghana<br>
-  <b>Languages:</b> English, French, Native Twi
+  <b>Languages:</b> English, French, Beginner Spanish
 </div>
 
 <br>
