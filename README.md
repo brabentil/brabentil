@@ -177,27 +177,44 @@ Senior Software Engineer specializing in cloud-native architectures, distributed
 ---
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=brabentil&show_icons=true&theme=radical&hide_border=true" height="170em" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brabentil&theme=radical&hide_border=true" height="170em" />
-  </div>
-  
-  <br>
-  
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brabentil&layout=compact&theme=radical&hide_border=true" height="170em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brabentil&theme=radical&utcOffset=0" height="170em" />
-  </div>
-  
-  <br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brabentil&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="98%" />
+  <h2>🏆 Achievements & Analytics</h2>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=brabentil&color=ce2b79&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+
+  <p>
+    <a href="https://github.com/brabentil">
+      <img src="https://github-profile-trophy.vercel.app/?username=brabentil&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=false&v=984729" alt="GitHub Trophies" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/brabentil">
+      <img src="https://github-readme-stats.vercel.app/api?username=brabentil&show_icons=true&theme=radical&hide_border=true&v=984729" height="195" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/brabentil">
+      <img src="https://streak-stats.demolab.com/?user=brabentil&theme=radical&hide_border=true&v=984729" height="195" alt="GitHub Streak" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/brabentil">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brabentil&layout=compact&theme=radical&hide_border=true&v=984729" height="195" alt="Top Languages" />
+    </a>
+    <a href="https://github.com/brabentil">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brabentil&theme=radical&utcOffset=0&v=984729" height="195" alt="Productive Time" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/brabentil">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=brabentil&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&v=984729" width="100%" alt="Activity Graph" />
+    </a>
+  </p>
 </div>
 
 ---
-
 <div align="center">
   <h2>🐍 Contribution Graph</h2>
   <picture>
