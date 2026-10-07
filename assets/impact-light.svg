@@ -1,0 +1,19 @@
+﻿<svg width="1400" height="190" viewBox="0 0 1400 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="190" rx="16" fill="#FFFFFF"/>
+  <line x1="466.5" y1="32" x2="466.5" y2="158" stroke="#D0D7DE"/>
+  <line x1="933.5" y1="32" x2="933.5" y2="158" stroke="#D0D7DE"/>
+
+  <text x="58" y="54" fill="#656D76" font-size="15" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">SYSTEM SCALE</text>
+  <text x="58" y="118" fill="#24292F" font-size="54" font-weight="700" font-family="Arial, Helvetica, sans-serif">159</text>
+  <text x="176" y="116" fill="#57606A" font-size="22" font-family="Arial, Helvetica, sans-serif">API routes</text>
+  <text x="58" y="150" fill="#656D76" font-size="15" font-family="Arial, Helvetica, sans-serif">Career Services Platform</text>
+
+  <text x="525" y="54" fill="#656D76" font-size="15" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">PROCESS IMPACT</text>
+  <text x="525" y="118" fill="#24292F" font-size="54" font-weight="700" font-family="Arial, Helvetica, sans-serif">5d â†’ &lt;2d</text>
+  <text x="525" y="150" fill="#656D76" font-size="15" font-family="Arial, Helvetica, sans-serif">Claims turnaround during internship work</text>
+
+  <text x="992" y="54" fill="#656D76" font-size="15" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">TEACHING</text>
+  <text x="992" y="118" fill="#24292F" font-size="54" font-weight="700" font-family="Arial, Helvetica, sans-serif">19</text>
+  <text x="1070" y="116" fill="#57606A" font-size="22" font-family="Arial, Helvetica, sans-serif">students</text>
+  <text x="992" y="150" fill="#656D76" font-size="15" font-family="Arial, Helvetica, sans-serif">Python at Nyansapo STEM</text>
+</svg>

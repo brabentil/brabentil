@@ -1,134 +1,122 @@
-<p align="center">
-  <img src="./assets/hero.svg" alt="Nana Bentil Saah — Software Engineer" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Nana Bentil Saah — Software Engineering" src="./assets/hero-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <a href="https://brabentil.vercel.app"><b>Portfolio</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nana-bentil-saah"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:nbensaah@gmail.com"><b>Email</b></a>
+  <a href="https://brabentil.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/nana-bentil-saah">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:nbensaah@gmail.com">Email</a>
 </p>
 
-I build software across **full-stack systems, backend services and applied machine learning**. I’m most interested in the parts that sit beneath the surface: data modelling, access control, retrieval, offline behaviour, model evaluation, performance, integrations and deployment.
+I build across **full-stack systems, backend services, and applied machine learning**. I like work where the interesting part sits below the UI: data modelling, access control, retrieval, offline behaviour, model evaluation, performance, integrations and deployment.
 
-<p align="center">
-  <img src="./assets/impact.svg" alt="Selected engineering numbers" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/impact-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/impact-light.svg">
+  <img alt="Selected engineering impact" src="./assets/impact-light.svg" width="100%">
+</picture>
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 — Career Services Platform
+One of my larger full-stack builds: a multi-role platform for students, employers and alumni covering jobs, mentorships, messaging and administrative workflows. The backend grew to **159 API routes**, so a lot of the work became about keeping permissions, data access and client behaviour predictable as the system expanded.
 
-### Career Services Platform
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `TanStack Query` `Playwright`
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Playwright`
+**Some numbers:** 30% fewer requests · navigation reduced by 96 ms · FCP 338 ms → 125 ms · 35 unit/integration tests + 6 critical E2E journeys  
+`Private codebase`
 
-A multi-role platform for students, employers and alumni, covering identity, job postings, mentorships, messaging and administrative workflows.
+---
 
-**159 API routes** · **30% fewer requests** · **FCP 338ms → 125ms** · **35 unit/integration + 6 E2E tests**
+### 02 — BlackStar AI
+A retrieval-augmented question-answering system built around Ghanaian public documents. I combined **vector retrieval and TF-IDF**, added token-budgeted context selection, and designed the answer flow around grounded citations rather than treating retrieval as a black box.
 
-<sub>Private codebase</sub>
+`Python` `FastAPI` `FAISS` `sentence-transformers` `scikit-learn` `Next.js`
 
-</td>
-<td width="50%" valign="top">
+[Live demo](https://blackstart-ai.vercel.app) · `Private codebase`
 
-### BlackStar AI
+---
 
-`FastAPI` `FAISS` `scikit-learn` `sentence-transformers` `Next.js`
+### 03 — KULA
+An offline-first mobile app for newcomers, built around the assumption that connectivity will sometimes fail. Messages and actions can be applied optimistically, queued locally and synchronised in the background with **2s → 4s → 8s exponential backoff**.
 
-A retrieval-augmented QA system for the 2025 Ghana Budget and election results. It combines vector search with TF-IDF, token-budgeted context selection and citation-grounded responses.
+`React Native` `Firebase Auth` `Cloud Firestore` `SQLite` `SecureStore` `AsyncStorage`
 
-**Hybrid retrieval** · **experiment logging** · **grounded citations**
+`Private codebase`
 
-[Live demo →](https://blackstart-ai.vercel.app)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 04 — Whispr
+A privacy-focused Android safety app that performs wake-phrase and gesture detection on-device. The audio pipeline combines **Wav2Vec2, ECAPA-TDNN, Silero VAD and ONNX Runtime**, then ties detection into cancelable SMS alerts and location tracking.
 
-### KULA
+`Flutter` `Dart` `ONNX Runtime` `Firebase` `Hive`
 
-`React Native` `Firestore` `SQLite` `SecureStore`
+`Private codebase`
 
-An offline-first community app built around optimistic updates, local persistence and background synchronization for unstable connectivity.
+## Applied ML
 
-**Outbox queue** · **2s → 4s → 8s retry backoff** · **GPS / camera / microphone**
+| Problem | What I explored | Result |
+| --- | --- | --- |
+| Credit-card default risk | Logistic regression, SVM-RBF, Random Forest, XGBoost, class weighting and feature importance | Best ROC-AUC **0.7895**; best F1 **0.5419** |
+| NBA salary forecasting | Five-source longitudinal dataset, strict temporal splits, XGBoost, SHAP and permutation importance | Test **R² ≈ 0.737** |
+| Crop-yield prediction | Linear, polynomial and L1 regression plus a classification framing | Polynomial **R² ≈ 0.97**; classification accuracy **92.7%** |
+| Customer segmentation | K-Means, PCA, t-SNE and a distance-paradox noise experiment | Silhouette **0.3322** before synthetic noise degradation |
 
-<sub>Private codebase</sub>
+## Toolkit
 
-</td>
-<td width="50%" valign="top">
-
-### Whispr
-
-`Flutter` `ONNX Runtime` `Wav2Vec2` `ECAPA-TDNN` `Silero VAD`
-
-A privacy-first Android safety app with on-device wake-phrase and gesture detection, tied to cancelable SMS alerts and location tracking.
-
-**On-device inference** · **voice activity detection** · **audio feature pipeline**
-
-<sub>Private codebase</sub>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More things I've built</b></summary>
-<br />
-
-- **ThriftHub Ghana** — e-commerce platform with CLIP-based image matching, Socket.IO notifications, Redis caching and Paystack payments. [Demo →](https://thrifthub-orcin.vercel.app)
-- **AegisX** — fraud-detection prototype built for the Petra Hackathon; finished as a **Top 10 finalist**. [Demo →](https://aegis-x.vercel.app)
-- **Academic City CV Book** — MERN platform for CV search, filtering and student-employer matching. [Demo →](https://acity-cv-book.vercel.app)
-- **Freelance projects** — production websites for hospitality and community clients, with deployment, media handling, SEO and handover work.
-
-</details>
-
-## ML notebook
-
-| Problem | What I explored | Best result / takeaway |
-|---|---|---|
-| **Credit-card default risk** | Logistic Regression, Decision Tree, SVM-RBF, Random Forest, XGBoost | XGBoost **ROC-AUC 0.7895**; L1 Logistic Regression best **F1 0.5419** |
-| **NBA salary forecasting** | Longitudinal data, temporal splitting, XGBoost, SHAP, permutation importance | Best test **R² ≈ 0.737** |
-| **Crop-yield prediction** | Linear, polynomial and L1-regularized regression; classification framing | Polynomial regression **R² ≈ 0.97**; classifier **92.7% accuracy** |
-| **Customer segmentation** | K-Means, PCA, t-SNE, high-dimensional noise experiment | Studied silhouette degradation as noise features increased |
-
-## Stack
-
-<p align="center">
-  <img src="./assets/stack.svg" alt="Core technology stack" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+  <img alt="Nana Bentil Saah's working stack" src="./assets/stack-light.svg" width="100%">
+</picture>
 
 ## Experience
 
-| | |
-|---|---|
-| **Nyansapo STEM** | **STEM Teacher & Curriculum Developer (Part-time)** — taught Python to **19 students** and contributed to programming/STEM curriculum development. |
-| **Old Mutual Ghana** | **Software Developer Intern** — worked on Node/Express claim services with PostgreSQL, Redis and AWS; the work helped reduce claims turnaround from **5 days to under 2 days**. |
-| **Dobiison / 360Africa** | **Full-Stack Developer Intern** — built a React + Node/Express platform cataloguing **50+ African historical sites**, with virtual tours, analytics and content management. |
-| **Tullow Ghana** | **Digital Team Intern** — worked with IT/hardware support and gained exposure to operational technology in oil and gas. |
-| **Kosmos Energy** | **Network Engineer Intern** — worked with routing, switching, firewalls, VLANs, OSPF/BGP and network automation concepts in Python. |
-| **Independent** | **Freelance Web Developer** — production web projects for clients across hospitality and community platforms. |
+**2026 · Nyansapo STEM — STEM Teacher & Curriculum Developer**  
+Taught Python to **19 students** and contributed to the programming/STEM curriculum.
 
-## Background
+**2025 · Old Mutual Ghana — Software Developer Intern**  
+Built Node.js/Express services for seven claim types, worked with PostgreSQL, Redis and AWS, and helped reduce claims turnaround from roughly five days to under two.
 
-**B.Sc. Computer Science — Academic City University**  
-**Petra Hackathon — Top 10 Finalist**, AegisX
+**2025 · Dobiison / 360Africa — Full-Stack Developer Intern**  
+Built a React and Node.js platform cataloguing 50+ African historical sites, including an admin dashboard, analytics and content-management workflows.
 
-I’ve also co-led **Google Developer Groups on Campus** activities, introduced children to basic AI concepts through **Yamoransa Model Labs**, and spent four seasons coaching **Warriors FC** at Academic City.
+**2025 · Tullow Ghana — Digital Team Intern**  
+Worked across IT support, hardware and network infrastructure while learning how technology fits into oil-and-gas operations.
+
+**2024 · Kosmos Energy — Network Engineer Intern**  
+Worked with routers, switches, firewalls, VLANs, OSPF/BGP and network automation concepts.
+
+**2024–present · Independent — Web Developer**  
+Built and delivered client websites with React/Next.js, containerised deployment, media pipelines, SEO and handover documentation.
+
+## Beyond code
+
+- **Google Developer Groups on Campus** — co-led technical workshops and helped organise ACity Hackathon 1.0.
+- **Yamoransa Model Labs** — introduced children to foundational AI concepts using interactive pattern-recognition activities.
+- **Warriors FC** — coached the university football team across four seasons.
+- **Academic City University** — B.Sc. Computer Science.
+
+## Activity
+
+This section is generated from GitHub itself and updates automatically once the included workflow has run.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D GitHub contribution calendar" src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
+</picture>
 
 ---
 
 <p align="center">
-  <b>Software · Web · Applied ML</b><br />
-  <sub>Accra, Ghana · English / French</sub><br /><br />
-  <a href="https://www.linkedin.com/in/nana-bentil-saah">LinkedIn</a>
+  <a href="https://brabentil.vercel.app">brabentil.vercel.app</a>
   &nbsp;·&nbsp;
-  <a href="https://brabentil.vercel.app">Portfolio</a>
+  <a href="https://www.linkedin.com/in/nana-bentil-saah">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:nbensaah@gmail.com">Email</a>
 </p>
