@@ -23,6 +23,8 @@ A multi-role platform for students, employers, and alumni covering jobs, mentors
 
 **159 API routes** / **30% fewer requests** / **FCP 338ms to 125ms** / **35 unit and integration tests + 6 critical E2E journeys**
 
+<img src="./assets/projects/career-services-platform.png" alt="Career Services Platform homepage" width="100%" />
+
 *Private repository*
 
 ---
@@ -31,6 +33,8 @@ A multi-role platform for students, employers, and alumni covering jobs, mentors
 A retrieval-augmented question-answering system built around Ghanaian public documents. I combined vector retrieval with TF-IDF, added token-budgeted context selection, and designed the answer flow around grounded citations rather than treating retrieval as a black box.
 
 `Python` `FastAPI` `FAISS` `sentence-transformers` `scikit-learn` `Next.js`
+
+<img src="./assets/projects/blackstar-ai.png" alt="BlackStar AI interface" width="100%" />
 
 [Live demo](https://blackstart-ai.vercel.app) / *Private repository*
 
@@ -50,6 +54,8 @@ A privacy-focused Android safety app that performs wake-phrase and gesture detec
 
 `Flutter` `Dart` `ONNX Runtime` `Firebase` `Hive`
 
+<img src="./assets/projects/whispr.png" alt="Whispr app logo" width="240" />
+
 *Private repository*
 
 ## Applied ML
@@ -60,6 +66,17 @@ A privacy-focused Android safety app that performs wake-phrase and gesture detec
 | **NBA salary forecasting** | Five-source longitudinal dataset, temporal splits, XGBoost, SHAP, permutation importance | Test **R2 about 0.737** |
 | **Crop-yield prediction** | Linear, polynomial and L1 regression plus a classification framing | Polynomial **R2 about 0.97**; classification accuracy **92.7%** |
 | **Customer segmentation** | K-Means, PCA, t-SNE, and a synthetic-noise distance experiment | Silhouette **0.3322** before noise degradation |
+
+<details>
+<summary><b>Model visualisations</b></summary>
+<br />
+
+<p>
+  <img src="./assets/projects/credit-card-default-risk.png" alt="Credit-card default risk feature importance chart" width="49%" />
+  <img src="./assets/projects/nba-salary-forecasting.png" alt="NBA salary forecasting SHAP feature importance chart" width="49%" />
+</p>
+
+</details>
 
 ## Toolkit
 
