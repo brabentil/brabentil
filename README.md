@@ -1,247 +1,130 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nana%20Bentil%20Saah&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20|%20Full-Stack%20Architect&descAlignY=60&descAlign=50" width="100%"/>
 
-  <div>
-    <a href="https://www.linkedin.com/in/nana-bentil-saah"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:nbensaah@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.fiverr.com/s/kLpPvZo"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white" alt="Fiverr"/></a>
-    <a href="https://brabentil.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-5340ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  </div>
+# Nana Bentil Saah
 
-  <img src="https://komarev.com/ghpvc/?username=brabentil&style=for-the-badge&color=blueviolet" alt="profile views"/>
+**Software Engineer · Full-Stack Developer**  
+Applied AI/ML · Web Systems · Backend APIs
+
+Accra, Ghana · B.Sc. Computer Science, First Class (3.92/4.00)
+
+[Portfolio](https://brabentil.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nana-bentil-saah) · [Email](mailto:nbensaah@gmail.com)
+
+<img src="https://img.shields.io/badge/Open%20to%20graduate%20roles-Software%20%7C%20Web%20%7C%20AI%2FML-238636?style=flat-square&labelColor=161b22" alt="Open to graduate software, web and AI/ML roles" />
+
 </div>
 
 ---
 
-<h2 align="center">🚀 Engineering Philosophy</h2>
+I build **full-stack applications, backend services and ML-enabled products**. Most of my recent work sits around TypeScript/JavaScript and Python, with PostgreSQL or MongoDB underneath.
 
-<div align="center">
-  <b>📍 Location:</b> Accra, Ghana<br>
-  <b>🗣️ Languages:</b> English, French, Beginner Spanish
-</div>
+I like projects where the interesting part is more than the UI: access control, data modelling, offline behaviour, retrieval, model evaluation, performance, integrations and deployment.
 
-<br>
+## A few things I've built
 
-<p align="center">
-Senior Software Engineer specializing in cloud-native architectures, distributed systems, and scalable full-stack solutions. I architect and deploy production-grade applications leveraging modern infrastructure patterns, containerization, and CI/CD pipelines. My engineering approach emphasizes clean code principles, system reliability, performance optimization, and maintainable architectures that scale.
-</p>
+### Career Services Platform
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Cloud-Native+Architecture;Full-Stack+Engineering;System+Design+%26+Scalability;DevOps+%26+Infrastructure;Microservices+%26+APIs;Database+Architecture;Performance+Optimization" alt="Typing SVG" />
-</div>
+**Next.js · TypeScript · Prisma · PostgreSQL · NextAuth · TanStack Query · Playwright**  
+*Private codebase*
 
----
+One of my larger builds: a platform for students, employers and alumni covering identity, job postings, mentorships, messaging and administrative workflows. I worked across the application rather than treating it as just a front-end project.
 
-<h2 align="center">🔗 Professional Links</h2>
+`159 API routes` · `30% fewer requests` · `FCP 338ms → 125ms` · `35 unit/integration + 6 E2E tests`
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nana-bentil-saah"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nbensaah@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.fiverr.com/s/kLpPvZo"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white" alt="Fiverr"/></a>
-  <a href="https://brabentil.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-5340ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://user-badge.committers.top/ghana/brabentil"><img src="https://user-badge.committers.top/ghana/brabentil.svg" alt="committers.top badge"/></a>
-</div>
+### BlackStar AI
 
----
+**FastAPI · FAISS · scikit-learn · sentence-transformers · Next.js · OpenAI API**  
+[Live demo](https://blackstart-ai.vercel.app)
 
-<details open>
-<summary><h2 align="center">⚡ Technical Expertise</h2></summary>
-<br>
+A retrieval-augmented QA system for the **2025 Ghana Budget and election results**. Retrieval combines vector search with TF-IDF, then selects context within a token budget before generating citation-grounded answers. I also added experiment/run logging so retrieval changes could be evaluated instead of guessed at.
 
-<h3 align="center">💻 Core Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
+### KULA
 
-<h3 align="center">🎯 Frontend Engineering</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
-</p>
+**React Native · Firebase Auth · Cloud Firestore · SQLite · SecureStore**  
+*Private codebase*
 
-<h3 align="center">⚙️ Backend & API Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-</p>
+An offline-first community app for newcomers. User actions are applied optimistically, queued locally when the network is unavailable, and synchronized in the background when connectivity returns.
 
-<h3 align="center">🗄️ Database Systems</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
+`Outbox queue` · `2s → 4s → 8s retry backoff` · `SQLite ↔ Firestore persistence` · `GPS / camera / microphone`
 
-<h3 align="center">☁️ Cloud & DevOps</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</p>
+### Whispr
 
-<h3 align="center">🛠️ Development Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
-</p>
+**Flutter · Dart · ONNX Runtime · Wav2Vec2 · ECAPA-TDNN · Silero VAD**  
+*Private codebase*
 
-<h3 align="center">📊 Data & ML</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-</p>
+A privacy-first Android safety app with wake-phrase and gesture detection running on-device. The pipeline combines speech models, voice activity detection and audio features, then connects detections to cancelable SMS alerts and location tracking.
 
-<h3 align="center">🔌 Hardware & IoT</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-</p>
+<details>
+<summary><b>More projects</b></summary>
+<br />
+
+- **ThriftHub Ghana** — e-commerce platform with CLIP-based image matching, Socket.IO notifications, Redis caching and Paystack payments. [Demo](https://thrifthub-orcin.vercel.app)
+- **AegisX** — fraud-detection prototype built for the Petra Hackathon; finished as a **Top 10 finalist**. [Demo](https://aegis-x.vercel.app)
+- **Academic City CV Book** — MERN platform for CV search, filtering and student-employer matching. [Demo](https://acity-cv-book.vercel.app)
+- **Freelance work** — client websites built with React/Next.js, Docker/CI/CD, Cloudinary, SEO and production handover.
+
 </details>
 
----
+## ML work
 
-<h2 align="center">💼 Engineering Services</h2>
+Alongside product work, I've been building and evaluating ML systems in Python:
 
-<div align="center">
-  <a href="https://www.fiverr.com/s/kLpPvZo">
-    <img src="https://img.shields.io/badge/Available%20for%20Contract-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" height="40"/>
-  </a>
-</div>
+- **Credit-card default risk** — compared Logistic Regression, Decision Tree, SVM-RBF, Random Forest and XGBoost; best XGBoost ROC-AUC was **0.7895**, while L1 Logistic Regression produced the best F1 at **0.5419**.
+- **NBA salary forecasting** — merged five sources into a player-season dataset, used temporal splitting and explainability with SHAP/permutation importance; best XGBoost test **R² ≈ 0.737**.
+- **Crop-yield prediction** — compared linear, polynomial and L1-regularized regression plus a classification framing; polynomial regression reached **R² ≈ 0.97** and the classifier reached **92.7% accuracy**.
+- **Customer segmentation** — K-Means with PCA/t-SNE analysis plus a noise-feature experiment to study distance degradation in high dimensions.
 
-<br>
+## Tools I use most
 
-<div align="center">
-  <h3>Professional Software Engineering Solutions</h3>
-  <p>
-    🏗️ <b>Full-Stack Development</b> • ☁️ <b>Cloud Architecture & Deployment</b> • 🔧 <b>DevOps & CI/CD</b><br>
-    🎨 <b>Modern Frontend Engineering</b> • ⚙️ <b>Scalable Backend Systems</b> • 🗄️ <b>Database Design & Optimization</b>
-  </p>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,express,postgres,mongodb,redis,docker,aws,git&theme=dark&perline=13" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Redis, Docker, AWS and Git" />
+</p>
 
----
+**Web:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, REST APIs  
+**Data:** PostgreSQL, Prisma, MongoDB, Redis, Firebase, SQLite  
+**ML / Python:** scikit-learn, XGBoost, FAISS, pandas, NumPy, SHAP, ONNX Runtime  
+**Delivery:** AWS (EC2, RDS, S3), Docker, CI/CD, Vercel, Git
 
-<h2 align="center">🎯 Technical Focus Areas</h2>
+## Experience
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-System%20Design-FF6F61?style=for-the-badge" alt="System Design"/><br>
-        <sub>Scalable Architectures</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-Cloud%20Native-232F3E?style=for-the-badge" alt="Cloud Native"/><br>
-        <sub>AWS & Containerization</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=for-the-badge" alt="Machine Learning"/><br>
-        <sub>AI/ML Integration</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-Robotics-007ACC?style=for-the-badge" alt="Robotics"/><br>
-        <sub>Embedded Systems</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+- **2026 — Nyansapo STEM · STEM Teacher & Curriculum Developer (Part-time)**  
+  Taught Python to **19 students** and contributed to programming/STEM curriculum development.
 
----
+- **2025 — Old Mutual Ghana · Software Developer Intern**  
+  Built Node/Express claim services with PostgreSQL, Redis and AWS; work on the platform helped reduce claims turnaround from **5 days to under 2 days**.
 
-<div align="center">
-  <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=brabentil&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</div>
+- **2025 — Dobiison / 360Africa · Full-Stack Developer Intern**  
+  Built a React + Node/Express platform cataloguing **50+ African historical sites**, including virtual tours, analytics and content management.
 
----
+- **2025 — Tullow Ghana · Digital Team Intern**  
+  Worked with IT/hardware support and gained exposure to operational technology in the oil and gas environment.
 
-<div align="center">
-  <h2>🏆 Achievements & Analytics</h2>
+- **2024 — Kosmos Energy · Network Engineer Intern**  
+  Worked with routing, switching, firewalls, VLANs, OSPF/BGP and network automation concepts in Python.
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=brabentil&color=ce2b79&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
+- **2024–Present — Freelance Web Developer**  
+  Delivering production web projects for clients, including hospitality and community platforms.
 
-  <p>
-    <a href="https://github.com/brabentil">
-      <img src="https://github-profile-trophy.vercel.app/?username=brabentil&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=false&v=984729" alt="GitHub Trophies" />
-    </a>
-  </p>
+## Education & recognition
 
-  <p>
-    <a href="https://github.com/brabentil">
-      <img src="https://github-readme-stats.vercel.app/api?username=brabentil&show_icons=true&theme=radical&hide_border=true&v=984729" height="195" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/brabentil">
-      <img src="https://streak-stats.demolab.com/?user=brabentil&theme=radical&hide_border=true&v=984729" height="195" alt="GitHub Streak" />
-    </a>
-  </p>
+**Academic City University** — B.Sc. Computer Science, **First Class**, GPA **3.92/4.00** · 2022–2026
 
-  <p>
-    <a href="https://github.com/brabentil">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brabentil&layout=compact&theme=radical&hide_border=true&v=984729" height="195" alt="Top Languages" />
-    </a>
-    <a href="https://github.com/brabentil">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brabentil&theme=radical&utcOffset=0&v=984729" height="195" alt="Productive Time" />
-    </a>
-  </p>
+- **Petra Hackathon — Top 10 Finalist**, AegisX
+- freeCodeCamp — Front End Development Libraries
+- freeCodeCamp — JavaScript Algorithms & Data Structures
+- freeCodeCamp — Responsive Web Design
 
-  <p>
-    <a href="https://github.com/brabentil">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=brabentil&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&v=984729" width="100%" alt="Activity Graph" />
-    </a>
-  </p>
-</div>
+## Outside code
 
----
-<div align="center">
-  <h2>🐍 Contribution Graph</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/brabentil/brabentil/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/brabentil/brabentil/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/brabentil/brabentil/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
+I also enjoy the parts of tech that involve people. I taught Python at **Nyansapo STEM**, introduced children to basic AI concepts through **Yamoransa Model Labs**, and co-led **Google Developer Groups on Campus** activities and the ACity Hackathon. Outside tech, I spent four seasons coaching **Warriors FC** at Academic City.
 
 ---
 
 <div align="center">
-  <h2>📬 Let's Connect</h2>
-  
-  <a href="https://www.linkedin.com/in/nana-bentil-saah">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nbensaah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://brabentil.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  
-  <br><br>
-  
-  <p><i>"Building robust, scalable systems that solve real-world problems through clean code and thoughtful architecture."</i></p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+I'm currently looking for **graduate opportunities in software engineering, web development and AI/ML**.
+
+[**LinkedIn**](https://www.linkedin.com/in/nana-bentil-saah) · [**Portfolio**](https://brabentil.vercel.app) · [**Email**](mailto:nbensaah@gmail.com)
+
+<sub>English · French</sub>
+
 </div>
