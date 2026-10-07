@@ -1,130 +1,134 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.svg" alt="Nana Bentil Saah — Software Engineer" width="100%" />
+</p>
 
-# Nana Bentil Saah
+<p align="center">
+  <a href="https://brabentil.vercel.app"><b>Portfolio</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nana-bentil-saah"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:nbensaah@gmail.com"><b>Email</b></a>
+</p>
 
-**Software Engineer · Full-Stack Developer**  
-Applied AI/ML · Web Systems · Backend APIs
+I build software across **full-stack systems, backend services and applied machine learning**. I’m most interested in the parts that sit beneath the surface: data modelling, access control, retrieval, offline behaviour, model evaluation, performance, integrations and deployment.
 
-Accra, Ghana · B.Sc. Computer Science, First Class (3.92/4.00)
+<p align="center">
+  <img src="./assets/impact.svg" alt="Selected engineering numbers" width="100%" />
+</p>
 
-[Portfolio](https://brabentil.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nana-bentil-saah) · [Email](mailto:nbensaah@gmail.com)
+## Selected work
 
-<img src="https://img.shields.io/badge/Open%20to%20graduate%20roles-Software%20%7C%20Web%20%7C%20AI%2FML-238636?style=flat-square&labelColor=161b22" alt="Open to graduate software, web and AI/ML roles" />
-
-</div>
-
----
-
-I build **full-stack applications, backend services and ML-enabled products**. Most of my recent work sits around TypeScript/JavaScript and Python, with PostgreSQL or MongoDB underneath.
-
-I like projects where the interesting part is more than the UI: access control, data modelling, offline behaviour, retrieval, model evaluation, performance, integrations and deployment.
-
-## A few things I've built
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Career Services Platform
 
-**Next.js · TypeScript · Prisma · PostgreSQL · NextAuth · TanStack Query · Playwright**  
-*Private codebase*
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Playwright`
 
-One of my larger builds: a platform for students, employers and alumni covering identity, job postings, mentorships, messaging and administrative workflows. I worked across the application rather than treating it as just a front-end project.
+A multi-role platform for students, employers and alumni, covering identity, job postings, mentorships, messaging and administrative workflows.
 
-`159 API routes` · `30% fewer requests` · `FCP 338ms → 125ms` · `35 unit/integration + 6 E2E tests`
+**159 API routes** · **30% fewer requests** · **FCP 338ms → 125ms** · **35 unit/integration + 6 E2E tests**
+
+<sub>Private codebase</sub>
+
+</td>
+<td width="50%" valign="top">
 
 ### BlackStar AI
 
-**FastAPI · FAISS · scikit-learn · sentence-transformers · Next.js · OpenAI API**  
-[Live demo](https://blackstart-ai.vercel.app)
+`FastAPI` `FAISS` `scikit-learn` `sentence-transformers` `Next.js`
 
-A retrieval-augmented QA system for the **2025 Ghana Budget and election results**. Retrieval combines vector search with TF-IDF, then selects context within a token budget before generating citation-grounded answers. I also added experiment/run logging so retrieval changes could be evaluated instead of guessed at.
+A retrieval-augmented QA system for the 2025 Ghana Budget and election results. It combines vector search with TF-IDF, token-budgeted context selection and citation-grounded responses.
+
+**Hybrid retrieval** · **experiment logging** · **grounded citations**
+
+[Live demo →](https://blackstart-ai.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### KULA
 
-**React Native · Firebase Auth · Cloud Firestore · SQLite · SecureStore**  
-*Private codebase*
+`React Native` `Firestore` `SQLite` `SecureStore`
 
-An offline-first community app for newcomers. User actions are applied optimistically, queued locally when the network is unavailable, and synchronized in the background when connectivity returns.
+An offline-first community app built around optimistic updates, local persistence and background synchronization for unstable connectivity.
 
-`Outbox queue` · `2s → 4s → 8s retry backoff` · `SQLite ↔ Firestore persistence` · `GPS / camera / microphone`
+**Outbox queue** · **2s → 4s → 8s retry backoff** · **GPS / camera / microphone**
+
+<sub>Private codebase</sub>
+
+</td>
+<td width="50%" valign="top">
 
 ### Whispr
 
-**Flutter · Dart · ONNX Runtime · Wav2Vec2 · ECAPA-TDNN · Silero VAD**  
-*Private codebase*
+`Flutter` `ONNX Runtime` `Wav2Vec2` `ECAPA-TDNN` `Silero VAD`
 
-A privacy-first Android safety app with wake-phrase and gesture detection running on-device. The pipeline combines speech models, voice activity detection and audio features, then connects detections to cancelable SMS alerts and location tracking.
+A privacy-first Android safety app with on-device wake-phrase and gesture detection, tied to cancelable SMS alerts and location tracking.
+
+**On-device inference** · **voice activity detection** · **audio feature pipeline**
+
+<sub>Private codebase</sub>
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>More things I've built</b></summary>
 <br />
 
-- **ThriftHub Ghana** — e-commerce platform with CLIP-based image matching, Socket.IO notifications, Redis caching and Paystack payments. [Demo](https://thrifthub-orcin.vercel.app)
-- **AegisX** — fraud-detection prototype built for the Petra Hackathon; finished as a **Top 10 finalist**. [Demo](https://aegis-x.vercel.app)
-- **Academic City CV Book** — MERN platform for CV search, filtering and student-employer matching. [Demo](https://acity-cv-book.vercel.app)
-- **Freelance work** — client websites built with React/Next.js, Docker/CI/CD, Cloudinary, SEO and production handover.
+- **ThriftHub Ghana** — e-commerce platform with CLIP-based image matching, Socket.IO notifications, Redis caching and Paystack payments. [Demo →](https://thrifthub-orcin.vercel.app)
+- **AegisX** — fraud-detection prototype built for the Petra Hackathon; finished as a **Top 10 finalist**. [Demo →](https://aegis-x.vercel.app)
+- **Academic City CV Book** — MERN platform for CV search, filtering and student-employer matching. [Demo →](https://acity-cv-book.vercel.app)
+- **Freelance projects** — production websites for hospitality and community clients, with deployment, media handling, SEO and handover work.
 
 </details>
 
-## ML work
+## ML notebook
 
-Alongside product work, I've been building and evaluating ML systems in Python:
+| Problem | What I explored | Best result / takeaway |
+|---|---|---|
+| **Credit-card default risk** | Logistic Regression, Decision Tree, SVM-RBF, Random Forest, XGBoost | XGBoost **ROC-AUC 0.7895**; L1 Logistic Regression best **F1 0.5419** |
+| **NBA salary forecasting** | Longitudinal data, temporal splitting, XGBoost, SHAP, permutation importance | Best test **R² ≈ 0.737** |
+| **Crop-yield prediction** | Linear, polynomial and L1-regularized regression; classification framing | Polynomial regression **R² ≈ 0.97**; classifier **92.7% accuracy** |
+| **Customer segmentation** | K-Means, PCA, t-SNE, high-dimensional noise experiment | Studied silhouette degradation as noise features increased |
 
-- **Credit-card default risk** — compared Logistic Regression, Decision Tree, SVM-RBF, Random Forest and XGBoost; best XGBoost ROC-AUC was **0.7895**, while L1 Logistic Regression produced the best F1 at **0.5419**.
-- **NBA salary forecasting** — merged five sources into a player-season dataset, used temporal splitting and explainability with SHAP/permutation importance; best XGBoost test **R² ≈ 0.737**.
-- **Crop-yield prediction** — compared linear, polynomial and L1-regularized regression plus a classification framing; polynomial regression reached **R² ≈ 0.97** and the classifier reached **92.7% accuracy**.
-- **Customer segmentation** — K-Means with PCA/t-SNE analysis plus a noise-feature experiment to study distance degradation in high dimensions.
-
-## Tools I use most
+## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,express,postgres,mongodb,redis,docker,aws,git&theme=dark&perline=13" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Redis, Docker, AWS and Git" />
+  <img src="./assets/stack.svg" alt="Core technology stack" width="100%" />
 </p>
-
-**Web:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, REST APIs  
-**Data:** PostgreSQL, Prisma, MongoDB, Redis, Firebase, SQLite  
-**ML / Python:** scikit-learn, XGBoost, FAISS, pandas, NumPy, SHAP, ONNX Runtime  
-**Delivery:** AWS (EC2, RDS, S3), Docker, CI/CD, Vercel, Git
 
 ## Experience
 
-- **2026 — Nyansapo STEM · STEM Teacher & Curriculum Developer (Part-time)**  
-  Taught Python to **19 students** and contributed to programming/STEM curriculum development.
+| | |
+|---|---|
+| **Nyansapo STEM** | **STEM Teacher & Curriculum Developer (Part-time)** — taught Python to **19 students** and contributed to programming/STEM curriculum development. |
+| **Old Mutual Ghana** | **Software Developer Intern** — worked on Node/Express claim services with PostgreSQL, Redis and AWS; the work helped reduce claims turnaround from **5 days to under 2 days**. |
+| **Dobiison / 360Africa** | **Full-Stack Developer Intern** — built a React + Node/Express platform cataloguing **50+ African historical sites**, with virtual tours, analytics and content management. |
+| **Tullow Ghana** | **Digital Team Intern** — worked with IT/hardware support and gained exposure to operational technology in oil and gas. |
+| **Kosmos Energy** | **Network Engineer Intern** — worked with routing, switching, firewalls, VLANs, OSPF/BGP and network automation concepts in Python. |
+| **Independent** | **Freelance Web Developer** — production web projects for clients across hospitality and community platforms. |
 
-- **2025 — Old Mutual Ghana · Software Developer Intern**  
-  Built Node/Express claim services with PostgreSQL, Redis and AWS; work on the platform helped reduce claims turnaround from **5 days to under 2 days**.
+## Background
 
-- **2025 — Dobiison / 360Africa · Full-Stack Developer Intern**  
-  Built a React + Node/Express platform cataloguing **50+ African historical sites**, including virtual tours, analytics and content management.
+**B.Sc. Computer Science — Academic City University**  
+**Petra Hackathon — Top 10 Finalist**, AegisX
 
-- **2025 — Tullow Ghana · Digital Team Intern**  
-  Worked with IT/hardware support and gained exposure to operational technology in the oil and gas environment.
-
-- **2024 — Kosmos Energy · Network Engineer Intern**  
-  Worked with routing, switching, firewalls, VLANs, OSPF/BGP and network automation concepts in Python.
-
-- **2024–Present — Freelance Web Developer**  
-  Delivering production web projects for clients, including hospitality and community platforms.
-
-## Education & recognition
-
-**Academic City University** — B.Sc. Computer Science, **First Class**, GPA **3.92/4.00** · 2022–2026
-
-- **Petra Hackathon — Top 10 Finalist**, AegisX
-- freeCodeCamp — Front End Development Libraries
-- freeCodeCamp — JavaScript Algorithms & Data Structures
-- freeCodeCamp — Responsive Web Design
-
-## Outside code
-
-I also enjoy the parts of tech that involve people. I taught Python at **Nyansapo STEM**, introduced children to basic AI concepts through **Yamoransa Model Labs**, and co-led **Google Developer Groups on Campus** activities and the ACity Hackathon. Outside tech, I spent four seasons coaching **Warriors FC** at Academic City.
+I’ve also co-led **Google Developer Groups on Campus** activities, introduced children to basic AI concepts through **Yamoransa Model Labs**, and spent four seasons coaching **Warriors FC** at Academic City.
 
 ---
 
-<div align="center">
-
-I'm currently looking for **graduate opportunities in software engineering, web development and AI/ML**.
-
-[**LinkedIn**](https://www.linkedin.com/in/nana-bentil-saah) · [**Portfolio**](https://brabentil.vercel.app) · [**Email**](mailto:nbensaah@gmail.com)
-
-<sub>English · French</sub>
-
-</div>
+<p align="center">
+  <b>Software · Web · Applied ML</b><br />
+  <sub>Accra, Ghana · English / French</sub><br /><br />
+  <a href="https://www.linkedin.com/in/nana-bentil-saah">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://brabentil.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:nbensaah@gmail.com">Email</a>
+</p>

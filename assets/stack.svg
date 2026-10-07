@@ -1,0 +1,17 @@
+<svg width="1400" height="300" viewBox="0 0 1400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="300" rx="16" fill="#0D1117"/>
+  <text x="54" y="54" fill="#F0F6FC" font-size="25" font-weight="700" font-family="Arial, Helvetica, sans-serif">Tools I reach for</text>
+  <text x="54" y="82" fill="#8C959F" font-size="15" font-family="Arial, Helvetica, sans-serif">Focused on the stack I actually use across product, backend and ML work.</text>
+
+  <text x="54" y="135" fill="#E3B341" font-size="14" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">LANGUAGES</text>
+  <text x="54" y="168" fill="#F0F6FC" font-size="20" font-family="Arial, Helvetica, sans-serif">TypeScript  ·  JavaScript  ·  Python  ·  SQL</text>
+
+  <text x="54" y="218" fill="#E3B341" font-size="14" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">PRODUCT + BACKEND</text>
+  <text x="54" y="251" fill="#F0F6FC" font-size="20" font-family="Arial, Helvetica, sans-serif">React  ·  Next.js  ·  Node.js  ·  Express  ·  FastAPI  ·  Prisma</text>
+
+  <text x="762" y="135" fill="#E3B341" font-size="14" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">DATA + INFRA</text>
+  <text x="762" y="168" fill="#F0F6FC" font-size="20" font-family="Arial, Helvetica, sans-serif">PostgreSQL  ·  MongoDB  ·  Redis  ·  Firebase  ·  AWS  ·  Docker</text>
+
+  <text x="762" y="218" fill="#E3B341" font-size="14" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">ML</text>
+  <text x="762" y="251" fill="#F0F6FC" font-size="20" font-family="Arial, Helvetica, sans-serif">scikit-learn  ·  XGBoost  ·  FAISS  ·  SHAP  ·  ONNX Runtime</text>
+</svg>
